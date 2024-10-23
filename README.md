@@ -14,3 +14,6 @@ React Event October 2024
 - Проект запускается на http://localhost:5173/
 - Для удобства установите полноценной работы установите Расширения:
 ESlint, Prettier, ES7+ React/Redux/React-Native snippets.
+
+
+Marina
